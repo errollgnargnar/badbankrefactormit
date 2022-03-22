@@ -21,6 +21,8 @@ You will recieve a long hashed string in return when done successfully. then run
   - React
   - MongoDB
   - Docker
+  
+ ![](https://github.com/errollgnargnar/badbankrefactormit/blob/main/readmedemo.gif)
  
  # Features
  Local Database storage container through Docker. Single Page Application. Create Account feature fully enabled. 
